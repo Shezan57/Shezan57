@@ -13,6 +13,9 @@
 - If you're interested in AI or have a project in mind, feel free to reach out!
 - I'm open to collaborating on innovative projects and sharing knowledge.
 
+## Git Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shezan57)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Need Information? Just Ask! ❓
 - If you need insights or information to enrich your articles or projects, I'm here to help.
 - Don't hesitate to ask me questions, and I'll be glad to assist or provide a fresh perspective.
