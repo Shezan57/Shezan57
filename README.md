@@ -14,8 +14,9 @@
 - I'm open to collaborating on innovative projects and sharing knowledge.
 
 ## Git Stats
-![Shezan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shezan57)
-![Most language used](https://github-readme-stats.vercel.app/api?username=Shezan57&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
+![Shezan57's Stats](https://github-readme-stats.vercel.app/api?username=Shezan57&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![Shezan57's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shezan57&theme=nord&hide_border=true)
+![Shezan57's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shezan57&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ## Need Information? Just Ask! ❓
 - If you need insights or information to enrich your articles or projects, I'm here to help.
